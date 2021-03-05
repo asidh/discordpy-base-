@@ -22,7 +22,8 @@ Copying this repo are welcome. For major changes, please open an issue first to 
 
 ## Suggestions
 You can use ```repl.it``` this website for free discord.py bot hosting.
-  remember to use ```.env``` to hide your token if you use ```repl.it``` and you do not have ```hacker``` plan or your repo is ```pubic```
+
+Remember to use ```.env``` to hide your token if you use ```repl.it``` and you do not have ```hacker``` plan or your repo is ```pubic```
 
 ## Advaned Suggestions
 You can use ```setting.json``` for a small database to put somethings like token
