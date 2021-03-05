@@ -29,10 +29,11 @@ Even repl.it cannot search other people's repl they can still use the way ```rep
 
 ## Advaned Suggestions
 You can use ```setting.json``` for a small database to put somethings like token
+
 You can use cogs to make some catagory of most of the commands.
 
 ## Support
-Discord Server : 
+[Discord Server :](https://discord.fyl/casper)
 ```python
 https://discord.fyl/casper
 https://discord.fyi/casperfc
