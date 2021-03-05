@@ -33,12 +33,13 @@ You can use ```setting.json``` for a small database to put somethings like token
 You can use cogs to make some catagory of most of the commands.
 
 ## Support
-[Discord Server :](https://discord.fyl/casper)
+[Discord Server :](https://discord.gg/X49fgHHY8h)
 ```python
-https://discord.fyl/casper
+https://discord.fyi/casper
 https://discord.fyi/casperfc
 https://dsc.gg/discordpyjs
-https://discord.fly/casperstudiofc
+https://discord.fyi/casperstudiofc
+https://discord.gg/X49fgHHY8h
 ```
 Instagram : 
 ``` python
